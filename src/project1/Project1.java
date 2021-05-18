@@ -17,7 +17,7 @@ public class Project1 {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("This is my first project");
-        int x = 2;
+        int x = 1;
         
         if(x == 1)
             System.out.println("One");
