@@ -7,6 +7,8 @@ public class Project1 {
         
         System.out.println(car1.getBrand());
         
+        System.out.println("new line);
+        
         
         
     }
